@@ -26,7 +26,7 @@
 	  </div><!--close welcome-->
       <div id="menu_items">
 	    <ul id="menu">
-          <li class="current"><a href="index.html">Home</a></li>
+          <li class="current"><a href="index.jsp">Home</a></li>
           <li><a href="ourwork.html">Our Work</a></li>
           <li><a href="testimonials.html">Testimonials</a></li>
           <li><a href="projects.html">Projects</a></li>
